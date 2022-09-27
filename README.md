@@ -15,7 +15,7 @@
   <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a href="https://www.linkedin.com/in/eduardo-ribeiro-pimenta-099885205/">
-  <img align="right" alt="linkedin-pic" height="190" style="" src="https://media-exp1.licdn.com/dms/image/D4D35AQFoo_gNrnLO7Q/profile-framedphoto-shrink_200_200/0/1663118849300?e=1663729200&v=beta&t=jcuHRzAk3Di_sGVslRrzmwJhDKIs5l3PM3KOvdKe_EA">
+  <img align="right" alt="linkedin-pic" height="190" style="" src="https://media-exp1.licdn.com/dms/image/D4D03AQGP1_6NKOqPrA/profile-displayphoto-shrink_800_800/0/1663118549979?e=2147483647&v=beta&t=eAh8ME-THkp5IfpZ-LuRWdMv5iiiDXtuo5dJTI7QQT0">
   
 </div>
 
