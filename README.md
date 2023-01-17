@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Rib3r0">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Rib3r0&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="135em" PAT_1="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" src="https://github-readme-stats.vercel.app/api?username=Rib3r0&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rib3r0&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <div align="center"> 
