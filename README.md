@@ -18,6 +18,8 @@
   <img align="center" alt="CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <a href="https://www.linkedin.com/in/eduardo-ribeiro-pimenta-099885205/">
   <img align="right" alt="linkedin-pic" height="190" style="" src="https://media-exp1.licdn.com/dms/image/D4D03AQGP1_6NKOqPrA/profile-displayphoto-shrink_800_800/0/1663118549979?e=2147483647&v=beta&t=eAh8ME-THkp5IfpZ-LuRWdMv5iiiDXtuo5dJTI7QQT0">
   
